@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753763842957",
+    "project_id": "iot-im-bce56",
+    "storage_bucket": "iot-im-bce56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753763842957:android:500f4b34e5efd005b65bc4",
+        "android_client_info": {
+          "package_name": "com.example.iotim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753763842957-smbes643vpu48rlugujagve4aj00hllj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9oIk8eXDKhs6BVYyoom3LTbW8g8Nc0d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753763842957-smbes643vpu48rlugujagve4aj00hllj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
